@@ -12,6 +12,7 @@
 
 ![Screenshot](/PICTURES/TIM1.jpg)
 
-[Screenshot](/PICTURES/TIM2.jpg)
+![Screenshot](/PICTURES/TIM1.jpg)
 
 ![Screenshot](/PICTURES/TIM3.jpg)
+
